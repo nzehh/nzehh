@@ -18,7 +18,7 @@
 - Successfully worked on some projects using SQL for analysis
 - Passionate about learning and unlearning
 - Tableau is my safe space 
-- Personal website [link](https://github.com/nzehh/HANNAH.BIANALYST.github.IO)
+- Personal website [link](https://nzehh.github.io/HANNAH.BIANALYST.github.IO/)
 - I’m currently open for an Intern or a new job opportunity.
 
 <br><br>
