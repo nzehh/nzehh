@@ -32,9 +32,9 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/mysql-blue)
+    ![SQL](https://img.shields.io/badge/mysql-blue)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-     ![](https://img.shields.io/badge/SMSS-blue)
+     ![SSMS](https://img.shields.io/badge/SMSS-blue)
 
 
 <br>   
